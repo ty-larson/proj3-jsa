@@ -1,0 +1,24 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Flask/Environment secrets
+.env
+.flaskenv
+
+# Project-specific configuration
+credentials.ini
+app.ini
+
+# MacOS metadata
+.DS_Store
+
+# Docker logs
+*.log
